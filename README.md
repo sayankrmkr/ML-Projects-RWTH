@@ -1,1 +1,1 @@
-# ML-Projects-RWTH
+# Projects-RWTH
